@@ -4,11 +4,16 @@ I’m a Data Scientist using data to paint interesting pictures! I would love to
 
 I currently the following in my repo:
 
-  -A web-scraping sample that scrapes Fox News which will be used to analyze the language they currently use.
+### **Web Scrapers**
+A [web-scraping sample](https://github.com/SmmnsMo/MediaAnalysis/blob/main/FoxNewsScraper.py) that scrapes Fox News which will be used to analyze the language they currently use.
   
-  -A Natural Language Classifier used to analyze what makes an Amazon Review useful (or not)
+### **Amazon Reviews Natural Language Classifier**
+A [Natural Language Classifier](https://github.com/SmmnsMo/Amazon-Review-Helpfulness) used to analyze what makes an Amazon Review useful (or not).  
+This yielded an f1-score of .68 using a Multinomial Naive Bayes model.
   
-  -A regression analysis based on NBA rookie salaries (how well does each players' college performances translate to their rookie salaries)
+### **NBA Rookie Salary Regression Analysis**
+A [regression analysis](https://github.com/SmmnsMo/ML-in-Basketball) based on NBA rookie salaries (how well does each players' college performances translate to their rookie salaries).  
+Yielded an r-squared score of .168.
   
 You can reach me at simmonsaren@gmail.com
 
