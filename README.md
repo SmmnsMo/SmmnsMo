@@ -3,9 +3,6 @@ Hi, I’m Aren
 I’m a Data Scientist using data to paint interesting pictures! I would love to work on new projects that push my learning forward. 
 
 I currently the following in my repo:
-
-### **Web Scrapers**
-A [web-scraping sample](https://github.com/SmmnsMo/MediaAnalysis/blob/main/FoxNewsScraper.py) that scrapes Fox News which will be used to analyze the language they currently use.
   
 ### **Amazon Reviews Natural Language Classifier**
 A [Natural Language Classifier](https://github.com/SmmnsMo/Amazon-Review-Helpfulness) used to analyze what makes an Amazon Review useful (or not).  
