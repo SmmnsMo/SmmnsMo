@@ -3,6 +3,13 @@ Hi, I’m Aren
 I’m a love using data to paint interesting pictures! I would love to work on new projects that push my learning forward. 
 
 I currently have the following in my repo:
+
+### **NFL Playing Surfaces** ###
+A data analytics [project](https://github.com/SmmnsMo/NFL-Playing-Surface-Analytics) (in progress) that was focused on the safety and playability of NFL surfaces. 
+
+### **Media Analysis**
+Originally intended to create a database of Media articles to compare and contrast how each outlet reports on current events however due to unforseen circumstances, I scrapped the project.
+However I completed a [webscraper](https://github.com/SmmnsMo/MediaAnalysis/blob/main/FoxNewsScraper.py) that was functional.
   
 ### **Amazon Reviews Natural Language Classifier**
 A [Natural Language Classifier](https://github.com/SmmnsMo/Amazon-Review-Helpfulness) used to analyze what makes an Amazon Review useful (or not).  
